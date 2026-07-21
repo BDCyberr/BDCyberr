@@ -5,9 +5,9 @@ Cybersecurity Professional • Security Engineering • Blue Team
 </h2>
 
 <p align="center">
-I'm a Security Risk Analysis graduate from Penn State who enjoys building practical cybersecurity projects, from self-hosted infrastructure and cloud SOCs to automation, networking, and defensive security.
+Welcome to BDCyberr, where I will be documenting my progress building practical cybersecurity projects, from self-hosted infrastructure and cloud SOCs to automation, networking, and defensive security.
 <p align="center">
-I started this GitHub to document what I'm learning, showcase real engineering projects, and continuously improve as a security engineer.
+I started this GitHub to effictively keep track of what I'm breaking, fixing, and learning, as well as showcase real engineering projects, and continuously improve in the world of security engineering.
 <p align="center">
 If you're interested in Linux, networking, blue teaming, self-hosting, or want to check out my wotk, you're in the right place.
 </p>
