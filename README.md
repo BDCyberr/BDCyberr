@@ -1,16 +1,114 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Bob 👋</h1>
 
-<!--
-**BDCyberr/BDCyberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Cybersecurity Professional • Security Engineering • Blue Team • Infrastructure
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Building secure infrastructure through hands-on engineering, cloud security, and continuous learning.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Featured Engineering Projects
+
+## 🖥️ Infrastructure & Security Lab
+Enterprise-inspired self-hosted infrastructure focused on security engineering, networking, Linux, Docker, monitoring, and secure service deployment.
+
+➡️ **Repository:** *Coming Soon*
+
+---
+
+## ☁️ Cloud-Based SOC & Threat Detection Lab
+Microsoft Azure security operations center utilizing Microsoft Sentinel, KQL, and attack telemetry to investigate security events.
+
+➡️ **Repository:** *Coming Soon*
+
+---
+
+## 🤖 Self-Hosted AI Infrastructure
+Privacy-focused local AI environment built for automation, experimentation, and secure AI workflows.
+
+➡️ **Repository:** *Coming Soon*
+
+---
+
+## 🏋️ AI-Powered Fitness Platform
+A modern workout tracking application utilizing analytics and AI to improve training progression and recovery.
+
+➡️ **Repository:** *Coming Soon*
+
+---
+
+# 📝 Technical Write-Ups
+
+Documentation, architecture decisions, and lessons learned from building each project.
+
+Topics include:
+
+- Infrastructure Design
+- Security Architecture
+- Docker
+- Linux
+- Networking
+- KQL
+- Microsoft Sentinel
+- Azure
+- Homelab Documentation
+
+➡️ **View Write-Ups:** *Coming Soon*
+
+---
+
+# 📄 Resume
+
+📥 **Download Resume**
+
+---
+
+# 🛠️ Technical Skills
+
+### Security
+
+- Microsoft Sentinel
+- KQL
+- Threat Intelligence
+- OSINT
+- Incident Response
+- Identity & Access Management
+- Log Analysis
+
+### Infrastructure
+
+- Linux
+- Docker
+- Azure
+- VMware
+- Networking
+- Tailscale
+- Windows Administration
+
+### Development
+
+- Java
+- MySQL
+- Git
+- GitHub
+
+---
+
+# 📜 Certifications
+
+- CompTIA Security+ (SY0-701)
+
+---
+
+# 🤝 Connect With Me
+
+- 💼 LinkedIn
+- 📧 Email
+- 📄 Resume
+
+---
+
+> **BDCyber** is my personal cybersecurity portfolio documenting the projects, systems, and technologies I'm building as I continue developing toward a career in **security engineering**.
