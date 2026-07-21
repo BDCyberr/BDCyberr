@@ -7,7 +7,7 @@ Cybersecurity • Infrastructure • Networking
 <p align="center">
 Welcome to BDCyberr, where I will be documenting my progress building practical cybersecurity projects, from self-hosted infrastructure and cloud SOCs to automation, networking, and defensive security.
 <p align="center">
-I started this GitHub to effictively keep track of what I'm breaking, fixing, and learning, as well as showcase real engineering projects, and continuously move forward through the world of security engineering.
+I started this GitHub to effictively keep track of what I'm breaking, fixing, and learning, as well as showcase my labs and projects, and continuously move forward through the world of security engineering.
 <p align="center">
 If you're interested in Linux, networking, blue teaming, self-hosting, or want to check out my work, you're in the right place.
 </p>
