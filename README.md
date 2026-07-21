@@ -64,7 +64,7 @@ More write-ups will be added as projects mature.
 
 # 📄 Resume
 
-📥 [View Resume (PDF)](resume/RDelCampo_Resume52726.pdf)
+📥 [View Resume (PDF)](assets/RDelCampo_Resume52726.pdf)
 ---
 
 # 🛠️ Technical Skills
