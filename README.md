@@ -14,7 +14,7 @@ If you're interested in Linux, networking, blue teaming, self-hosting, or want t
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🚀 Featured Projects
 
 ## 🖥️ Infrastructure & Security Lab
 A self-hosted home server I'm building from the ground up using Ubuntu Server and Docker.
