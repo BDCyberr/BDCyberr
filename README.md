@@ -123,4 +123,5 @@ Topics include:
 
 ---
 
-> **BDCyber** is my personal cybersecurity portfolio documenting the projects, systems, and technologies I'm building as I continue developing toward a career in **security engineering**.
+> I built this **BDCyber** GitHub to document real projects rather than just collect code. My goal is to treat each repository like an engineering case study: showing the planning, architecture, implementation, challenges, and lessons learned along the way.
+If a project is here, it's because I built it, broke it, fixed it, and learned something from it. 
