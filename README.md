@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bob 👋</h1>
 
 <p align="center">
-Cybersecurity Professional • Security Engineering • Blue Team • Infrastructure
+Cybersecurity Professional • Security Engineering • Blue Team • Infrastructure • Cloud Security
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@ Building secure infrastructure through hands-on engineering, cloud security, and
 ## 🖥️ Infrastructure & Security Lab
 Enterprise-inspired self-hosted infrastructure focused on security engineering, networking, Linux, Docker, monitoring, and secure service deployment.
 
-➡️ **Repository:** *Coming Soon*
+➡️ [View Infrastructure & Security Lab](https://github.com/BDCyberr/infrastructure-security-lab)
 
 ---
 
 ## ☁️ Cloud-Based SOC & Threat Detection Lab
 Microsoft Azure security operations center utilizing Microsoft Sentinel, KQL, and attack telemetry to investigate security events.
 
-➡️ **Repository:** *Coming Soon*
+➡️ [View Azure SOC Lab](https://github.com/BDCyberr/azure-soc-lab)
 
 ---
 
@@ -62,8 +62,7 @@ Topics include:
 
 # 📄 Resume
 
-📥 **Download Resume**
-
+📥 [View Resume Repository](https://github.com/BDCyberr/resume)
 ---
 
 # 🛠️ Technical Skills
