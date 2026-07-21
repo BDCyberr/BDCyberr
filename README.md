@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Bob 👋</h1>
 
 <h2 align="center">
-Cybersecurity Professional • Security Engineering • Blue Team
+Cybersecurity • Infrastructure • Networking
 </h2>
 
 <p align="center">
 Welcome to BDCyberr, where I will be documenting my progress building practical cybersecurity projects, from self-hosted infrastructure and cloud SOCs to automation, networking, and defensive security.
 <p align="center">
-I started this GitHub to effictively keep track of what I'm breaking, fixing, and learning, as well as showcase real engineering projects, and continuously improve in the world of security engineering.
+I started this GitHub to effictively keep track of what I'm breaking, fixing, and learning, as well as showcase real engineering projects, and continuously move forward through the world of security engineering.
 <p align="center">
-If you're interested in Linux, networking, blue teaming, self-hosting, or want to check out my wotk, you're in the right place.
+If you're interested in Linux, networking, blue teaming, self-hosting, or want to check out my work, you're in the right place.
 </p>
 
 ---
@@ -17,14 +17,16 @@ If you're interested in Linux, networking, blue teaming, self-hosting, or want t
 # 🚀 Featured Engineering Projects
 
 ## 🖥️ Infrastructure & Security Lab
-Enterprise-inspired self-hosted infrastructure focused on security engineering, networking, Linux, Docker, monitoring, and secure service deployment.
+A self-hosted home server I'm building from the ground up using Ubuntu Server and Docker.
+
+Current focus includes Linux administration, reverse proxies, DNS, monitoring, secure remote access, self-hosted media storage, and infrastructure documentation.
 
 ➡️ [View Infrastructure & Security Lab](https://github.com/BDCyberr/infrastructure-security-lab)
 
 ---
 
 ## ☁️ Cloud-Based SOC & Threat Detection Lab
-Microsoft Azure security operations center utilizing Microsoft Sentinel, KQL, and attack telemetry to investigate security events.
+A Microsoft Azure based security operations center ubuilt to simulate attacks, collect telemetry, and investigate alerts using Microsoft Sentinel and KQL.
 
 ➡️ [View Azure SOC Lab](https://github.com/BDCyberr/azure-soc-lab)
 
@@ -46,19 +48,15 @@ A modern workout tracking application utilizing analytics and AI to improve trai
 
 # 📝 Technical Write-Ups
 
-Documentation, architecture decisions, and lessons learned from building each project.
+Currently documenting:
 
-Topics include:
+- Home server build
+- Network architecture
+- Docker deployments
+- Security decisions
+- Lessons learned
 
-- Infrastructure Design
-- Security Architecture
-- Docker
-- Linux
-- Networking
-- KQL
-- Microsoft Sentinel
-- Azure
-- Homelab Documentation
+More write-ups will be added as projects mature.
 
 ➡️ **View Write-Ups:** *Coming Soon*
 
@@ -66,7 +64,7 @@ Topics include:
 
 # 📄 Resume
 
-📥 [View Resume Repository](https://github.com/BDCyberr/resume)
+📥 [View Resume](https://github.com/BDCyberr/resume/RDelCampo_Resume52726.pdf)
 ---
 
 # 🛠️ Technical Skills
@@ -123,5 +121,6 @@ Topics include:
 
 ---
 
-> I built this **BDCyber** GitHub to document real projects rather than just collect code. My goal is to treat each repository like an engineering case study: showing the planning, architecture, implementation, challenges, and lessons learned along the way.
-If a project is here, it's because I built it, broke it, fixed it, and learned something from it. 
+>### Why this Github?
+>Documentation is arguably the most important part of any project or lab. I will be using BDCyberr for exactly that.
+Every repository here is treated like an engineering notebook. I document the planning, architecture, deployment, mistakes, troubleshooting, and lessons learned so I can improve over time, and so others can follow along if they're interested.
