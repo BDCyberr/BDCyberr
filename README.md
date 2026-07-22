@@ -1,22 +1,18 @@
-<h1 align="center">Hi, I'm Bob 👋</h1>
-
-<h2 align="center">
-Cybersecurity • Infrastructure • Networking
-</h2>
+<h1 align="center">Welcome to BDCyberr </h1>
 
 <p align="center">
-Welcome to BDCyberr, where I will be documenting my progress building practical cybersecurity projects, from self-hosted infrastructure and cloud SOCs to automation, networking, and defensive security.
+A place where I document the projects I'm building, the problems I'm solving, and the lessons I learn along the way.
 <p align="center">
-I started this GitHub to effictively keep track of what I'm breaking, fixing, and learning, as well as showcase my labs and projects, and continuously move forward through the world of security engineering.
+From self-hosted infrastructure and cloud security labs to networking, automation, and defensive security, this GitHub is both my portfolio and my engineering notebook.
 <p align="center">
-If you're interested in Linux, networking, blue teaming, self-hosting, or want to check out my work, you're in the right place.
+If you're interested in Linux, networking, blue teaming, self-hosting, or just like seeing projects evolve from idea to implementation, you're in the right place.
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🖥️ Infrastructure & Security Lab
+## Infrastructure & Security Lab
 A self-hosted home server I'm building from the ground up using Ubuntu Server and Docker.
 
 Current focus includes Linux administration, reverse proxies, DNS, monitoring, secure remote access, self-hosted media storage, and infrastructure documentation.
@@ -25,28 +21,28 @@ Current focus includes Linux administration, reverse proxies, DNS, monitoring, s
 
 ---
 
-## ☁️ Cloud-Based SOC & Threat Detection Lab
+## Cloud-Based SOC & Threat Detection Lab
 A Microsoft Azure based security operations center ubuilt to simulate attacks, collect telemetry, and investigate alerts using Microsoft Sentinel and KQL.
 
 ➡️ [View Azure SOC Lab](https://github.com/BDCyberr/azure-soc-lab)
 
 ---
 
-## 🤖 Self-Hosted AI Infrastructure
+## Self-Hosted AI Infrastructure
 Privacy-focused local AI environment built for automation, experimentation, and secure AI workflows.
 
 ➡️ **Repository:** *Coming Soon*
 
 ---
 
-## 🏋️ AI-Powered Fitness Platform
+## AI-Powered Fitness Platform
 A modern workout tracking application utilizing analytics and AI to improve training progression and recovery.
 
 ➡️ **Repository:** *Coming Soon*
 
 ---
 
-# 📝 Technical Write-Ups
+# Technical Write-Ups
 
 Currently documenting:
 
@@ -62,12 +58,12 @@ More write-ups will be added as projects mature.
 
 ---
 
-# 📄 Resume
+# Resume
 
-📥 [View Resume (PDF)](assets/RDelCampo_Resume52726.pdf)
+[View Resume (PDF)](assets/RDelCampo_Resume52726.pdf)
 ---
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 ### Security
 
@@ -96,7 +92,7 @@ More write-ups will be added as projects mature.
 - Git
 - GitHub
 
-### Currently Learning 📶
+### Currently Learning
 
 - Infrastructure Engineering
 - SIEM Engineering
@@ -107,17 +103,17 @@ More write-ups will be added as projects mature.
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 - CompTIA Security+ (SY0-701)
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
-- 📄 Resume
+- LinkedIn
+- Email
+- Resume
 
 ---
 
