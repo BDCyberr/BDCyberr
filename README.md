@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to BDCyberr </h1>
 
 <p align="center">
-A place where I document the projects I'm building, the problems I'm solving, and the lessons I learn along the way.
+I'm Bob Del Campo, and I'm passionate about understanding, building, and securing systems. 
 <p align="center">
-From self-hosted infrastructure and cloud security labs to networking, automation, and defensive security, this GitHub is both my portfolio and my engineering notebook.
+This is a place where I document the projects I'm building, the problems I'm solving, and the lessons I learn along the way. From self-hosted infrastructure and cloud security labs to networking, automation, and defensive security, this GitHub serves as both my portfolio and my engineering notebook.
 <p align="center">
-If you're interested in Linux, networking, blue teaming, self-hosting, or just like seeing projects evolve from idea to implementation, you're in the right place.
+If you're interested in blue teaming, self-hosting, networking, or just like seeing projects evolve from idea to implementation, you're in the right place.
 </p>
 
 ---
@@ -15,21 +15,21 @@ If you're interested in Linux, networking, blue teaming, self-hosting, or just l
 ## Infrastructure & Security Lab
 A self-hosted home server I'm building from the ground up using Ubuntu Server and Docker.
 
-Current focus includes Linux administration, reverse proxies, DNS, monitoring, secure remote access, self-hosted media storage, and infrastructure documentation.
+Current focus includes Linux administration, reverse proxies, DNS, monitoring, secure remote access, self-hosted services, and infrastructure documentation.
 
 ➡️ [View Infrastructure & Security Lab](https://github.com/BDCyberr/infrastructure-security-lab)
 
 ---
 
 ## Cloud-Based SOC & Threat Detection Lab
-A Microsoft Azure based security operations center ubuilt to simulate attacks, collect telemetry, and investigate alerts using Microsoft Sentinel and KQL.
+A Microsoft Azure based security operations center built to simulate attacks, collect telemetry, and investigate alerts using Microsoft Sentinel and KQL.
 
 ➡️ [View Azure SOC Lab](https://github.com/BDCyberr/azure-soc-lab)
 
 ---
 
 ## Self-Hosted AI Infrastructure
-Privacy-focused local AI environment built for automation, experimentation, and secure AI workflows.
+Exploring local AI models, self-hosted tooling, and automation while keeping data private and under my own control.
 
 ➡️ **Repository:** *Coming Soon*
 
@@ -52,7 +52,7 @@ Currently documenting:
 - Security decisions
 - Lessons learned
 
-More write-ups will be added as projects mature.
+Each project includes architecture decisions, implementation details, troubleshooting, and lessons learned.
 
 ➡️ **View Write-Ups:** *Coming Soon*
 
@@ -60,7 +60,7 @@ More write-ups will be added as projects mature.
 
 # Resume
 
-[View Resume (PDF)](assets/RDelCampo_Resume52726.pdf)
+[Download Resume](assets/RDelCampo_Resume52726.pdf)
 ---
 
 # Technical Skills
@@ -111,12 +111,13 @@ More write-ups will be added as projects mature.
 
 # Connect With Me
 
-- LinkedIn
-- Email
-- Resume
+- [LinkedIn](www.linkedin.com/in/robert-del-campo)
+- [Email](bdc227@outlook.com)
+- [Resume](assets/RDelCampo_Resume52726.pdf)
 
 ---
 
 >### Why this Github?
->Documentation is arguably the most important part of any project or lab. I will be using BDCyberr for exactly that.
-Every repository here is treated like an engineering notebook. I document the planning, architecture, deployment, mistakes, troubleshooting, and lessons learned so I can improve over time, and so others can follow along if they're interested.
+>Through my trials and errors, I've learned that goocumentation is just as important as good engineering.
+>That's the purpose of BDCyberr.
+>Every repository here is treated like an engineering notebook. I document the planning, architecture, deployment, mistakes, troubleshooting, and lessons learned so I can improve over time, and so others can follow along if they're interested.
